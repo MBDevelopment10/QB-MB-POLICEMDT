@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Polismyndigheten">
+  <!--
+    OBS: Detta är en svensk polis-inspirerad, generisk emblemmarkering.
+    Den är INTE Polismyndighetens officiella logotyp.
+  -->
+  <path d="M64 10 L104 28 V64 C104 88 88 108 64 118 C40 108 24 88 24 64 V28 L64 10 Z" fill="#0A1C46" stroke="#FFCC00" stroke-width="6"/>
+  <polygon points="64,30 70,42 84,44 74,54 76,68 64,61 52,68 54,54 44,44 58,42" fill="#FFCC00" opacity="0.95"/>
+  <circle cx="64" cy="58" r="18" fill="rgba(255,204,0,0.12)" stroke="#FFCC00" stroke-width="2"/>
+  <text x="64" y="66" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="20" font-weight="900" fill="#FFCC00" letter-spacing="1">PM</text>
+</svg>
